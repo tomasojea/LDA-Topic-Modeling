@@ -1,6 +1,4 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
+## Topic Modeling
 
 ## General info
 
